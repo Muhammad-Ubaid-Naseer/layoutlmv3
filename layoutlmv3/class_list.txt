@@ -1,0 +1,1 @@
+text,stainy_text,pure_stain
